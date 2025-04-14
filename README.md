@@ -2,6 +2,45 @@
 
 <p><h1>Hosted link</h1>    https://rupalibhore.github.io/Frontend-foodies/</p>
 
+
+
+
+<![home-page](https://github.com/user-attachments/assets/598b9fc2-96ff-4770-9e68-6292e3cc39f9)
+
+
+
+![registerF](https://github.com/user-attachments/assets/30a23092-9d49-4221-84ca-3ca1d4338a4d)
+
+
+![sing up](https://github.com/user-attachments/assets/855c7e65-32c2-404e-9b9e-0bfbe46bc992)
+
+
+
+![sing in ](https://github.com/user-attachments/assets/26ae6e8d-0681-450b-876e-7c5e4dcf8951)
+
+
+
+
+![after login](https://github.com/user-attachments/assets/63d26642-5135-4852-859b-0b0b25d37856)
+
+
+![explore page](https://github.com/user-attachments/assets/713cb668-6dc1-488e-8973-d1e97264b570)
+
+
+
+
+![Contact](https://github.com/user-attachments/assets/bd110952-07ed-4c06-82fe-4244811da9d4)
+
+
+
+![addToCart](https://github.com/user-attachments/assets/6a562a28-66f9-49a2-92ce-38d37a727d4a)
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
